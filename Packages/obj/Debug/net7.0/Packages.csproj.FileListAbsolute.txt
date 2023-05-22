@@ -1,0 +1,15 @@
+C:\Users\Kieran\source\repos\Packages\Packages\bin\Debug\net7.0\Packages.exe
+C:\Users\Kieran\source\repos\Packages\Packages\bin\Debug\net7.0\Packages.deps.json
+C:\Users\Kieran\source\repos\Packages\Packages\bin\Debug\net7.0\Packages.runtimeconfig.json
+C:\Users\Kieran\source\repos\Packages\Packages\bin\Debug\net7.0\Packages.dll
+C:\Users\Kieran\source\repos\Packages\Packages\bin\Debug\net7.0\Packages.pdb
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.csproj.AssemblyReference.cache
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.AssemblyInfoInputs.cache
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.AssemblyInfo.cs
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.dll
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\refint\Packages.dll
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.pdb
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\Packages.genruntimeconfig.cache
+C:\Users\Kieran\source\repos\Packages\Packages\obj\Debug\net7.0\ref\Packages.dll
